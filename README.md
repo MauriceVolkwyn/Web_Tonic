@@ -16,7 +16,7 @@ to upload a file multiple times and be able to get a listing of the data that ha
 - npx tailwindcss init
 - npm i react-data-table-component
 
-# cli
+# Cli
 
 - vscode
 
@@ -31,3 +31,7 @@ React js with Tailwind CSS for styling
 # Back-end
 
 Firebase firestore
+
+# Extras
+
+cvs file has been included use for testing purposes
